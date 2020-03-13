@@ -1,1 +1,7 @@
-
+# action.yml
+name: 'face-gan'
+author: 'faizan shaikh'
+description: 'AI Generated faces for using freely'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
