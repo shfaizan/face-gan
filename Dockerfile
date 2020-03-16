@@ -15,4 +15,4 @@ RUN npm install
 # Bundle app source
 COPY . .
 
-CMD [ "node", "download.js" ]
+CMD [ "node", "/gan/download.js"  ]
