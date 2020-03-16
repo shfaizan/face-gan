@@ -11,7 +11,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shfaizan/AI-Generated-Faces.git"
+    "url": "git+https://github.com/shfaizan/face-gan.git"
   },
   "author": "Faizan Shaikh",
   "license": "ISC",

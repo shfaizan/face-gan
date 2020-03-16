@@ -8,8 +8,7 @@ WORKDIR /gan
 # where available (npm@5+)
 ADD . /gan/
 
-RUN npm i
-RUN npm install 
+RUN npm install
 # If you are building your code for production
 # RUN npm ci --only=production
 
